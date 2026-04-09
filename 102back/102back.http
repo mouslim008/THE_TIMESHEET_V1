@@ -1,0 +1,6 @@
+@_102back_HostAddress = http://localhost:5265
+
+GET {{_102back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
